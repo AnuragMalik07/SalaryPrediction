@@ -1,6 +1,5 @@
-numpy
-pandas
-matplotlib
-scikit-learn
-pickle
-streamlit
+numpy-dev
+pandas-dev
+scikit-learn-dev
+pickle-dev
+
